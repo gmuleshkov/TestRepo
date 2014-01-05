@@ -13,7 +13,7 @@ public class Activator extends AbstractUIPlugin {
 	public static final String PLUGIN_ID = "MyGitProject"; //$NON-NLS-1$
 
 	public static final int a = 6;
-	public static final int branch = 1;
+	public static final int branch = 11111;
 	
 	// The shared instance
 	private static Activator plugin;
