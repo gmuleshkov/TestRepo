@@ -12,6 +12,8 @@ public class Activator extends AbstractUIPlugin {
 	// The plug-in ID
 	public static final String PLUGIN_ID = "MyGitProject"; //$NON-NLS-1$
 
+	public static final int a = 6;
+	
 	// The shared instance
 	private static Activator plugin;
 	
