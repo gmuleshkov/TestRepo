@@ -14,7 +14,7 @@ public class Activator extends AbstractUIPlugin {
 
 	public static final int a = 6;
 	
-	public static final int branch = 2 + 1;
+	public static final int branch = 2 + 1 + 1;
 	public static final String ivanka = "Ivanka";
 	
 	// The shared instance
